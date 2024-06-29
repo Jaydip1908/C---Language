@@ -1,0 +1,1 @@
+//6. Write C program to find sum of diagonal elements of a matrix.
